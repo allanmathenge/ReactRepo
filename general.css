@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+.video2-author,
+.video2-stats,
+.p2 {
+    width: 245px;
+    display: inline-block;
+}
+
+.thumbnail3 {
+    width: 300px;
+    display: block;
+}
+
+.video3-author,
+.video3-stats,
+.p3 {
+    width: 300px;
+    display: inline-block;
+
+}
